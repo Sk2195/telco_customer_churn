@@ -8,7 +8,7 @@ Predict customer churn using the telco dataset.
 
 ## Data
 
-The dataset is in the `data` folder.
+The variable in the following dataset
 
 ### Variables
 
