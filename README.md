@@ -8,7 +8,7 @@ Predict customer churn using the telco dataset.
 
 ## Data
 
-The variable in the following dataset
+The variable in the following datasets are as follows:
 
 ### Variables
 
